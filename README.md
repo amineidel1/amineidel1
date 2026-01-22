@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmineIdelhaj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amineidel1&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 ## 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineIdelhaj&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineidel1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,14 +63,14 @@
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineIdelhaj&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amineidel1&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmineIdelhaj&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amineidel1&theme=onedark&margin-w=10" />
 </p>
 
 ---
