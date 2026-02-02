@@ -53,12 +53,12 @@
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amineidelhaj&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineidelhaj&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amineidel1&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineidel1&layout=compact" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amineidelhaj"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amineidel1"/>
 </p>
 
 ---
