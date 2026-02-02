@@ -1,29 +1,21 @@
-<h1 align="center">
-  Hi 👋 My name is Amine Idelhaj
-</h1>
+# Hi 👋 I'm Amine Idelhaj  
 
-<h3 align="center">
-  Data & AI Engineer | Cloud • DevOps • Smart Systems
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amineidel1&show_icons=true&theme=tokyonight" />
-</p>
+**Data & AI Engineer | Cloud • DevOps • Smart Systems**
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Master’s degree in **Data & Intelligence for Smart Systems**
-- 🌍 Based in **France**
-- ☁️ Interested in **Cloud, DevOps, AI & Smart Systems**
-- 📊 Background in **Data Engineering & Artificial Intelligence**
-- 🤝 Open to collaboration on **research & tech projects**
+🎓 Master’s degree in **Data & Intelligence for Smart Systems**  
+🌍 Based in **France**  
+☁️ Strong interest in **Cloud, DevOps, AI & Smart Systems**  
+📊 Background in **Data Engineering & Artificial Intelligence**  
+🤝 Open to collaboration on **research & tech projects**
 
 ---
 
 ## 🧠 Areas of Interest
 - Artificial Intelligence & Machine Learning  
-- Cloud Computing (Azure, OVHcloud)  
+- Cloud Computing (**Azure, OVHcloud**)  
 - DevOps & CI/CD  
 - Smart Systems & IoT  
 - Network & Wireless Technologies  
@@ -31,50 +23,67 @@
 ---
 
 ## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineidel1&layout=compact&theme=tokyonight" />
-</p>
+- Python  
+- Java  
+- JavaScript  
+- SQL  
+- Bash  
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
-</p>
+### 🧩 Programming Languages
+- Python  
+- Java  
+- JavaScript  
+- SQL  
+- Bash  
 
-### Web & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
-</p>
+### 🌐 Web & Frameworks
+- React  
+- Tailwind CSS  
+- Node.js  
+- REST APIs  
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions" />
-</p>
+### ☁️ Cloud & DevOps
+- Microsoft Azure  
+- OVHcloud  
+- Docker  
+- Kubernetes  
+- Git & GitHub  
+- GitHub Actions (CI/CD)  
+- Terraform (Infrastructure as Code – basics)
 
-### Data & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+### 📊 Data & AI
+- Machine Learning  
+- Deep Learning  
+- Data Engineering  
+- Data Analysis  
+- Model Deployment  
+- Streaming & Real-time Processing  
 
 ---
 
 ## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amineidel1&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amineidelhaj&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineidelhaj&layout=compact)
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amineidel1&theme=onedark&margin-w=10" />
-</p>
+- Master’s degree in Data & Intelligence for Smart Systems  
+- Co-author of a book on **Foundation Models in Cybersecurity**  
+- Academic & personal projects in **AI, Cloud & DevOps**  
+- Experience in **Data Engineering & Smart Systems projects**
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: *https://www.linkedin.com/in/amine-idelhaj/*
-- 📧 Email: *amineidel.ai@gmail.com*
+💼 **LinkedIn**: https://www.linkedin.com/in/amine-idelhaj/  
+📧 **Email**: amineidel.ai@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and reach out for collaboration!*
